@@ -1,0 +1,7 @@
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\bin\Debug\Calculator.dll
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\bin\Debug\nunit.framework.dll
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\bin\Debug\nunit.framework.xml
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\obj\Debug\Calculator.dll
+D:\Desarrollo\ProyectosC#\TDDCalculator\Calculator\obj\Debug\Calculator.pdb
